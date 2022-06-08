@@ -1,11 +1,3 @@
-/*
-Módulo criado para aula de SO II - Professor: Rossano
-Anisio Rodrigues da Silva Junior
-Vitor Marcolin
-Daniel Evaldo da Silva
-Beatriz Camargo
-*/
-
 #include <dirent.h>
 #include <stdio.h>
 #include <fcntl.h>
